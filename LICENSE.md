@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Addon | event-driven-trading + backtesting offers the most advanced Polymarket addon, with event-driven-trading and backtesting. Ideal for professional traders and
 
 
 
